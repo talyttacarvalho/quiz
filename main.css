@@ -1,0 +1,36 @@
+.title {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
+
+.questionario {
+    margin-left: 30px; 
+}
+
+#btn {
+    background-color: #3991F5;
+    color: white;
+    border: 2px;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 29px;
+    margin: 10px 0;
+}
+
+#sumResult{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.setResult{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.acertos, .respostas{
+    margin: 5px;
+    padding: 5px;
+}
